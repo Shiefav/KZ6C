@@ -1,0 +1,9 @@
+KZ6C firmware is an adaptation of PadKit's firmware and of Stefan Wagner's
+CH552 software stack. It is distributed under Creative Commons Attribution-
+ShareAlike 3.0 Unported (CC BY-SA 3.0):
+https://creativecommons.org/licenses/by-sa/3.0/
+
+The full license is included in ../LICENSES/CC-BY-SA-3.0.txt. See ATTRIBUTION.md
+for original authors, sources and an overview of KZ6C modifications. The original
+PadKit license notice is preserved in ../LICENSES/PADKIT-LICENSE-NOTICE.txt.
+Third-party notices in source files are retained.

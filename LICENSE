@@ -1,0 +1,11 @@
+KZ6C prototype — licenses by directory
+
+* Original KZ6C board design and case: Creative Commons Attribution-ShareAlike
+  4.0 International (CC BY-SA 4.0), see LICENSES/CC-BY-SA-4.0.txt. This grant
+  covers the original project contributions and does not change third-party rights.
+* Firmware: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0),
+  inherited from PadKit and the CH552 stack. See firmware/LICENSE,
+  firmware/ATTRIBUTION.md and LICENSES/CC-BY-SA-3.0.txt.
+* The redistributed KiCad USB-C footprint is based on the KiCad libraries and
+  is CC BY-SA 4.0 with the KiCad library exception. See hardware/ATTRIBUTION.md.
+* Other third-party notices remain in the relevant files and notices.
